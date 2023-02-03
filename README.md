@@ -13,7 +13,7 @@ feed me, seymour.
 
 ## The first "languages" that I need to learn:
 
-  1. HTML
+  1. **HTML**
   2. CSS
   3. JavaScript
 
