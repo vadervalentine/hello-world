@@ -5,7 +5,7 @@ feed me, seymour.
 
 -----------------------
 
-# Things that I need to **understand** better:
+## Things that I need to **understand** better:
 
   - GitHub
   - Git
