@@ -1,7 +1,7 @@
 # hello-world
 feed me, seymour.
 
-# This is me using different Markdown elements
+# Look, Ma. I'm Using the Markdown Guide
 
 -----------------------
 
@@ -21,7 +21,7 @@ feed me, seymour.
 
 While my main focus right now is learning HTML, CSS, and JavaScript, it is important to incorporate other elements into my learning, such as:
 
-  - ** Foundational Knowledge **
+  - **Foundational Knowledge**
   - CS Fundamentals
   - Reading lists
   - Video Tutorials
