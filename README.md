@@ -1,7 +1,7 @@
 # hello-world
 feed me, seymour.
 
-# Look, Ma. I'm Using the Markdown Guide
+# Look, Ma. I'm Using the Markup Guide
 
 -----------------------
 
