@@ -32,3 +32,5 @@ This list is not comprehensive. This is a rough starting point.
 < I must remain diligent, focused, open, dedicated, *calm* to accomplish my goal.
 
 ~~I can do this.~~ I will do this.
+
+I'm writing about me. 
